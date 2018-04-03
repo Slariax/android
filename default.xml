@@ -17,6 +17,9 @@
            remote="github"
            sync-c="true"
            sync-j="4" />
+  
+  <project path=”android” name="slariax/android" />
+
 
   <!-- AOSP Projects -->
 
